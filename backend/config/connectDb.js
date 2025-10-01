@@ -10,3 +10,5 @@ exports.connectDb=async()=>{
         process.exist(1)
     }
 }
+
+//git checking
